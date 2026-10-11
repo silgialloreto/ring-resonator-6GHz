@@ -1,0 +1,60 @@
+{
+    "parameters": [
+        {
+            "expr": "28",
+            "name": "width",
+            "value": "28"
+        },
+        {
+            "expr": "52",
+            "name": "length",
+            "value": "52"
+        },
+        {
+            "expr": "5.6",
+            "name": "r",
+            "value": "5.6"
+        },
+        {
+            "expr": "1.5",
+            "name": "msl",
+            "value": "1.5"
+        },
+        {
+            "expr": "3",
+            "name": "k",
+            "value": "3"
+        },
+        {
+            "expr": "0.8",
+            "name": "d",
+            "value": "0.8"
+        },
+        {
+            "expr": "0.1",
+            "name": "g",
+            "value": "0.1"
+        },
+        {
+            "expr": "d+2",
+            "name": "hporta",
+            "value": "2.8"
+        },
+        {
+            "expr": "0.5",
+            "name": "d_sample",
+            "value": "0.5"
+        },
+        {
+            "expr": "14",
+            "name": "w_sample",
+            "value": "14"
+        },
+        {
+            "expr": "14",
+            "name": "l_sample",
+            "value": "14"
+        }
+    ],
+    "version": 1
+}
